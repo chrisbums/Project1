@@ -11,5 +11,4 @@ cat <<EOF > /var/www/html/index.html
 <h3>사설 IP : ${private_ip}</h3>
 <h3>가용영역 : ${az_name}</h3>
 <img src="https://banner2.cleanpng.com/20180817/eqe/5f57f9bfeb7fb5ccee9564fa00b5935f.webp" width=200>
-
-
+EOF
